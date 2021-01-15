@@ -18,10 +18,10 @@ dan lain-lain.
 
 User demo:
 - Admin
-username: mulyojr
-password: qwerty
+username: deigo
+password: 12345
 - Customer:
-username: agungtr
-password: qwerty
+username: rizky
+password: 12345
 # E-Commerce
 # ecommerce
