@@ -35,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="card-header">
                                 <h3 class="card-heading"><?php echo $product->name; ?></h3>
                             </div>
-                            <div class="card-body" style="height : 282px; width : auto; max-width : 100%; margin : auto;">
+                            <div class="card-body" style="height : 381px; width : auto; max-width : 100%; margin : auto;">
                                 <div class="text-center">
                                     <img alt="<?php echo $product->name; ?>" class="img img-fluid rounded" src="<?php echo base_url('assets/uploads/products/'. $product->picture_name); ?>" style="width: 1000px; max-height: 800px">
                                     <br>
